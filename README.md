@@ -20,16 +20,16 @@ Click [NLP.ipynb](https://github.com/pbonner4/NLP/blob/master/Word%20tokenizing/
 
 ## Libraries and/or Modules used:
 
-pandas 
-collections 
-dotenv 
-newsapi.newsapi_client 
-matplotlib 
-nltk 
-nltk.corpus 
-nltk.sentiment.vader 
-nltk.stem 
-nltk.tokenize 
-re 
-spacy 
-wordcloud 
+pandas, 
+collections, 
+dotenv, 
+newsapi.newsapi_client, 
+matplotlib, 
+nltk, 
+nltk.corpus, 
+nltk.sentiment.vader, 
+nltk.stem, 
+nltk.tokenize, 
+re, 
+spacy, and
+wordcloud.
