@@ -4,7 +4,7 @@
 
 ## 1. Sentiment Analysis
 
-I Used the newsapi to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment 
+I Used the newsapi to pull the latest news articles for Bitcoin and Ethereum in order to create a DataFrame of sentiment 
 
 ## 2. Natural Language Processing
 
